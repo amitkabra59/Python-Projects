@@ -1,0 +1,2 @@
+This project consists of a word dictionary where user enters a word to find the meaning. If the word does not exists in dictionary then the application gives a user friendly message that word does not exists.
+The project may sound simple but I have made use of various concepts and modules/libraries of Python. 
