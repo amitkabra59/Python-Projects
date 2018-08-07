@@ -1,0 +1,6 @@
+This project makes use of Folium library to display following on world map:
+1. Major Volcanoes
+2. Pointer Layer
+3. Polygon Layer
+4. Population polygons
+5. Control Layer to control functions of above layers
